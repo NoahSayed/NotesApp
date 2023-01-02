@@ -22,8 +22,6 @@ function App() {
       lastModified: Date.now(),
     };
 
-    setNotes([newNote, ...notes]);
-    setActiveNote(newNote.id);
   };
 
   const onDeleteNote = (noteId) => {
