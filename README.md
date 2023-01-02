@@ -1,10 +1,3 @@
-# Notes App Tutorial
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Tutorial
-
-This source code is from my React.js project guide. Watch it here: https://www.youtube.com/watch?v=ulOKYl5sHGk&t=1932s
 
 ## Available Scripts
 
